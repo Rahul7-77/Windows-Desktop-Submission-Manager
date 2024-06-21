@@ -32,7 +32,8 @@ DesktopSubmissionManager is a desktop application developed using VB.NET for cre
     ```
 3. **Start the Server:**
     ```sh
-    npm start
+    npx tsc
+    node dist/index.js
     ```
     The server will start on `http://localhost:3000`.
 
