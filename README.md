@@ -10,7 +10,7 @@ DesktopSubmissionManager is a desktop application developed using VB.NET for cre
 - **Delete Submissions**: Remove submissions.
 - **Stopwatch**: Track time elapsed while filling out the form.
 
-![Create Submission Form](images/one.png)
+<img src="images/one.png" alt="Create Submission Form" width="400">
 ![Create Submission Form](images/two.png)
 ![Create Submission Form](images/three.png)
 
