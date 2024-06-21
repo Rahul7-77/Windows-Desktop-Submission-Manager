@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("slidely-ai-test-2"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb09042c87960038714fb704af673c9a8593dbc8"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("slidely-ai-test-2"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("slidely-ai-test-2"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
