@@ -23,11 +23,11 @@ DesktopSubmissionManager is a desktop application developed using VB.NET for cre
 
 1. **Clone the Backend Server Repository:**
     ```sh
-    git clone https://github.com/your-username/SubmissionBackendServer.git
+    git clone https://github.com/Rahul7-77/Backend-Server-for-Windows-Desktop-Submission-Manager.git
     ```
 2. **Install Dependencies:**
     ```sh
-    cd SubmissionBackendServer
+    cd Backend-Server-for-Windows-Desktop-Submission-Manager
     npm install
     ```
 3. **Start the Server:**
